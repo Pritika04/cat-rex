@@ -6,5 +6,5 @@ See the [source](https://cs.chromium.org/chromium/src/components/neterror/resour
 
 Also, originally cloned from https://github.com/wayou/t-rex-runner 
 
-## Running the Game
+## Running the Game Locally
 Type `python3 -m http.server 8000` in your terminal. Then, open your browser and go to `http://localhost:8000`
